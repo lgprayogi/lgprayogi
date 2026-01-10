@@ -18,3 +18,4 @@
 ![Profile views counter](https://komarev.com/ghpvc/?username=lgprayogi&&style=flat-square)  
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+![snake gif](https://github.com/lgprayogi/lgprayogi/blob/output/github-snake-dark.svg)
